@@ -79,3 +79,29 @@ footer a:visited {
   font-size: 22px;
   font-family: 'Rampart One', cursive;
 }
+@media screen and (max-width: 668px) {
+  h3 {
+    position: absolute;
+    font-size: 22px;
+    text-align: center;
+    padding: 2px 2xp;
+    padding: -13px 28px;
+    margin: 40px;
+  }
+  textarea {
+    width: 92%;
+    height: 300px;
+    font-size: 30px;
+    padding: 2px 2px;
+    margin: -50px 19px
+  }
+  .output.row {
+    font-size: 31px;
+  }
+  .mass{
+    font-size: 18px;
+    text-align: center;
+    justify-content: center;
+    margin: -41px 184px;   
+  }
+}
